@@ -1,0 +1,7 @@
+{
+  "name": "mastra-durable-replay-cache-growth",
+  "private": true,
+  "type": "module",
+  "scripts": { "repro": "node repro.mjs" },
+  "dependencies": { "@mastra/core": "1.80.0", "zod": "4.6.6" }
+}
